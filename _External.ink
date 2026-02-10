@@ -1,7 +1,3 @@
 EXTERNAL playSound(happy)
 EXTERNAL playSound(trevoga)
 EXTERNAL playSound(pechal)
-EXTERNAL playSound(soundName)
-EXTERNAL playSound(soundName)
-EXTERNAL playSound(soundName)
-EXTERNAL playSound(soundName)
